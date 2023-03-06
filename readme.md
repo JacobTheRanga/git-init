@@ -1,0 +1,1 @@
+windows batch script which allows user to quickly set up a git repository
